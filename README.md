@@ -2,7 +2,7 @@ Job-Finder
 
 what : Job Application
 
-. APIs -- Framework -- Flask . Backend : Python with Flask . Frontend : HTML, CSS . CURD operations . IDE: VS Code . Debugger: Python Debugger . Version Control: GitHub
+. APIs -- Framework -- Flask . Backend : Python with Flask . Frontend : HTML, CSS  . IDE: VS Code . Debugger: Python Debugger . Version Control: GitHub
 
 Why :
 
@@ -20,15 +20,20 @@ Why :
 
 How :
 
-Upload Resume – in PDF or DOCX format.
-Extract Skills – system scans and identifies key skills.
-Job Matching – compares skills with job listings.
-View Recommendations – shows a list of suitable jobs.
+1. Upload Resume – in PDF or DOCX format.
+
+2. Extract Skills – system scans and identifies key skills.
+
+3. Job Matching – compares skills with job listings.
+
+4. View Recommendations – shows a list of suitable jobs.
+
+
 Technologies Used :
 
 . Backend--Python with Flask----Frontend-- HTML, CSS----Debugger--Python Debugger-----Version Control: GitHub
 
-📂 Project Structure
+Project Structure
 
 Job-Finder-Master
 
